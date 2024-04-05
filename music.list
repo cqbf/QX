@@ -1,3 +1,2 @@
-http=121.43.170.54:16163, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=JS@121.43.170.54:16163
-http=138.3.218.255:22176, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=JS@138.3.218.255:22176
 shadowsocks=121.43.170.54:18888, method=chacha20-ietf-poly1305, password=zcs19960929, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=JS@121.43.170.54:18888
+http=121.43.170.54:16163, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com,tag=JS@121.43.170.54:16163
